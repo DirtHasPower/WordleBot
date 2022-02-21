@@ -9,5 +9,9 @@ If you have questions, contact me at dirthaspower@gmail.com
 
 
 Change Log:
+
 • FindBestWord() now prioritizes words with letters earlier in the alphabet. This makes it slightly more accurate.
+
 • The way the program handles multiple of the same character has been made significantly more efficient.
+
+• The win rate is now ~88%. 26% increase from WordleBotV1.py
