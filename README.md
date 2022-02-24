@@ -16,10 +16,11 @@ WordleBotV2 Change Log:
 
 • The win rate is now ~88%. 26% increase from WordleBotV1.py
 
-WordleBotV2 Change Log:
 
-• FindBestWord() now prioritizes words with letters earlier in the alphabet. This makes it slightly more accurate.
+WordleBotV3 Change Log:
 
-• The way the program handles multiple of the same character has been made significantly more efficient.
+• Added secondary word choosing method to stop WordleBot from getting 4 greens and then cycling through one letter at a time.
 
-• The win rate is now ~88%. 26% increase from WordleBotV1.py
+• Changed main loop slightly
+
+• Win Rate has not been tested yet
