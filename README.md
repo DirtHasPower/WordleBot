@@ -8,6 +8,13 @@ If you have any questions, feel free to contact me at dirthaspower@gmail.com
 Credit to https://gist.github.com/dracos/dd0668f281e685bad51479e5acaadb93 for list of valid wordle words.
 
 
+Instructions:<br>
+-Input your word(Ex. bagel)<br>
+-Input a five letter string to represent the results(G for green, Y for yellow, W for white)(Ex. WGGYW)<br>
+-Program will output recommend a word<br>
+-Repeat<br>
+
+
 WordleBotV2 Change Log:<br>
 -FindBestWord() now prioritizes words with letters earlier in the alphabet. This makes it slightly more accurate.<br>
 -The way the program handles multiple of the same character has been made significantly more efficient.<br>
