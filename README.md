@@ -21,7 +21,7 @@ WordleBotV2 Change Log:<br>
 -The win rate is now ~88%. 26% increase from WordleBotV1.py<br>
 
 
-WordleBotV3 Change Log(<strong>BETA<strong> Use is not recommended):<br>
+WordleBotV3 Change Log(Still in beta. Use is not recommended):<br>
 -Added secondary word choosing method to stop WordleBot from getting 4 greens and then cycling through one letter at a time.<br>
 -Changed main loop slightly<br>
 -Win Rate has not been tested yet
